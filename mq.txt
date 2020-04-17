@@ -3,3 +3,5 @@ mq  creat
 mq  first
 
 master secondmq second  123
+
+mq 3
