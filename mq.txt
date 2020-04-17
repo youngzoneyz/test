@@ -2,4 +2,4 @@ mq  creat
 
 mq  first
 
-master second
+master secondmq second  123
